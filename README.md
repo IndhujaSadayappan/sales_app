@@ -62,6 +62,7 @@ src/
 
 App.js
 README.md
+---
 
 ## Requirements
 
@@ -70,9 +71,11 @@ README.md
 - Expo CLI
 - Expo Go (for mobile testing)
 
+---
+
 ## Installation & Running the App
 
-
+```bash
 # Clone the repository
 git clone https://github.com/IndhujaSadayappan/sales_app.git
 
@@ -84,4 +87,6 @@ npm install
 
 # Start the Expo development server
 npx expo start
+
+
 

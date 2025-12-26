@@ -76,7 +76,7 @@ const LoginScreen = () => {
   return (
     <View style={styles.container}>
       <Image
-        source={require('F:\\sales_app\\assets\\login_image.png')} 
+       source={require('../../assets/login_image.png')}
         style={styles.logo}
         resizeMode="contain"
       />
